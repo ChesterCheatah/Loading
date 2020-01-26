@@ -1,2 +1,2 @@
 # Loading
-Some cool loading bar with python
+Credits are not for me
